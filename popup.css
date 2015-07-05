@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0.25em;
+    width: 20em;
+}
+
+label {
+    display: inline-block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.25em;
+    max-width: 100%;
+}
+
+input {
+    border-radius: 0.25em;
+    display: block;
+    height: 2.0em;
+    width: 100%;
+}
